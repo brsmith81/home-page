@@ -30,8 +30,12 @@
  
 - **Insurtech Insider**	(bi-weekly - 1 hour)
 
+	The latest news, insights and trends in the industry to bring you right up to date on all things insurtech. (More UK and Europe based than North America)
+	
 - **Simply Explaining Insurance** (bi-weekly 10 minutes)
 
+	A podcast dedicated to all things Insurance. Short 5-8 minute topics boiled down to what the consumer and business owner really should know about their insurance protection.
+	
 - **Invest Like the Best**  (bi-weekly 1.25 hours)
 
 	Exploring the ideas, methods, and stories of people that will help you better invest your time and money.
