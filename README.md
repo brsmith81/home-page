@@ -8,11 +8,11 @@
 
 	The podcast educates listeners on a wide variety of topics, often using popular culture as a reference giving the podcast comedic value.
 
-- **Marketfoolery**	(daily 20 minutes)
+- **Marketfoolery**	(daily - 20 minutes)
 
 	A daily look at stocks in the news, the top business/investing stories, and occasional tangents.
 
-- **Invest Like the Best**  (bi-weekly 1.25 hours)
+- **Invest Like the Best**  (bi-weekly - 1.25 hours)
 
 	Exploring the ideas, methods, and stories of people that will help you better invest your time and money.
 
@@ -36,11 +36,11 @@
 
 	The latest news, insights and trends in the industry to bring you right up to date on all things insurtech. (More UK and Europe based than North America)
 	
-- **Simply Explaining Insurance** (bi-weekly 10 minutes)
+- **Simply Explaining Insurance** (bi-weekly - 10 minutes)
 
 	A podcast dedicated to all things Insurance. Short 5-8 minute topics boiled down to what the consumer and business owner really should know about their insurance protection.
 	
-- **EconTalk**			(weekly 1 hour)
+- **EconTalk**			(weekly - 1 hour)
 
 	Russ Roberts typically interviews a single guest—often professional economists—on topics in economics
 
